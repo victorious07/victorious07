@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science/AI/ML/DL**
+- 🌱 I’m currently learning **Data Science from AlmaBetter**
+
+- 👯 I’m looking to collaborate on **Data Analytics company**
 
 - 💬 Ask me about **Python,SQL,ML**
 
